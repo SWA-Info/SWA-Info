@@ -26,10 +26,10 @@ different components:
 
  1. SWA HardwareHelper :
     All components are provided under the GPL v2.0 license
-    <https://github.com/SWA-Info/SWA_HardwareHelper/Licenses/SWA_HardwareHelper_GPLv2_License.txt>
+    <https://github.com/SWA-Info/SWA-Info/Licenses/SWA_HardwareHelper_GPLv2_License.txt>
     Based on the GPL 2.0 license terms these users must disclose
     their application code when using the core component sources.
          
  2. Samples and Utilities:
     All samples and most of the utilities are provided under the MIT
-    license <https://github.com/SWA-Info/SWA_HardwareHelper/Licenses/SWA_HardwareHelper_MIT_License.txt> for anyone.
+    license <https://github.com/SWA-Info/SWA-Info/Licenses/SWA_HardwareHelper_MIT_License.txt> for anyone.
